@@ -8,7 +8,7 @@ Start virtual machine using
 
 Start application and mongodb 
 
-`vagrant ssh app
-cd /home/ubuntu/app
-node app.js`
+`vagrant ssh app`
+`cd /home/ubuntu/app`
+`node app.js`
 
